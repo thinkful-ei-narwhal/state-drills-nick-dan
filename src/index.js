@@ -2,6 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import './index.css';
-import HelloWorld from './HelloWorld';
+import Bombs from './Bombs';
 
-ReactDOM.render(<HelloWorld />, document.getElementById('root'));
+ReactDOM.render(<Bombs />, document.getElementById('root'));
